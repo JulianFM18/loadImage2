@@ -1,4 +1,3 @@
-//add loadImage2 code here
 PImage Field;
 PImage BBall;
 PImage Run;
